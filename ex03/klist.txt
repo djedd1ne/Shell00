@@ -1,0 +1,5 @@
+Credentials cache: API:C1CF0255-8723-4147-8105-2E3C333DBA12
+        Principal: dmekki@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 23 10:16:18 2020  Nov 23 20:16:18 2020  krbtgt/42ROMA.IT@42ROMA.IT
